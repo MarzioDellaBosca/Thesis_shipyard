@@ -1,7 +1,7 @@
 # 🚢 Thesis_Shipyard
 
 Questa repository raccoglie appunti, idee, e workflow legati allo sviluppo del progetto di tesi.  
-Organizzazione, sperimentazione e tanto codice: tutto prende forma qui. ⚙️📚
+Organizzazione, sperimentazione e (in futuro) tanto codice. ⚙️📚
 
 Modelli Utilizzati:
 - **MLP**;
