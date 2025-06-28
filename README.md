@@ -6,7 +6,7 @@ Organizzazione, sperimentazione e (in futuro) tanto codice. ⚙️📚
 Modelli Utilizzati:
 - **MLP**;
 - **CNN**;
-- **Hist Gradient Boosting Classier**;
+- **Hist Gradient Boosting Classifier**;
 
 Dataset Utilizzati:
 - **Motion Sense**;
