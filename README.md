@@ -28,7 +28,8 @@ Da fare:
 - Prova **HGBoosting** su aggregato;
 - Prove applicazione metodo estrazione/reshaping (catch22-tsfel) su [dataset di benchmark](https://www.timeseriesclassification.com/dataset.php);
 - Confronto modelli di benchmark (in HAR) e modelli miei sugli aggregati;
-- Eseguire esplorazioni profonde in "grid search" ed esperimenti su identificazione finestra ottimale (per estrazione); 
+- Eseguire esplorazioni profonde in "grid search" ed esperimenti su identificazione finestra ottimale (per estrazione);
+- Eseguire e riuscire a gestire diverse combinazioni domini TSFEL;
 
   
 
